@@ -68,7 +68,7 @@ File Archiver offers several collaboration features, allowing teams to work toge
 | Task Assignments          | Assign file management tasks to team members | Task tracking dashboard          |
 | Communication Tools       | Built-in messaging for teams          | Real-time chat and notifications |
 
-### Reporting:bar_chart:
+### Reporting :bar_chart:
 
 To generate detailed reports on archive projects, File Archiver offers built-in reporting functionality. Here's an example of a generated report in JSON format:
 
