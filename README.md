@@ -1,6 +1,6 @@
 # File Archiver - File Management Redefined :file_folder:
 
-**File Archiver** is a powerful file management tool designed to help users efficiently compress, organize, and store files. With an intuitive interface and robust features, File Archiver ensures users can easily manage large datasets, create backups, and share compressed files across platforms. Whether you're looking to organize documents or securely store important data, File Archiver simplifies the process with its versatile tools and flexible options.
+*File Archiver* is a powerful file management tool designed to help users efficiently compress, organize, and store files. With an intuitive interface and robust features, *File Archiver* ensures users can easily manage large datasets, create backups, and share compressed files across platforms. Whether you're looking to organize documents or securely store important data, *File Archiver* simplifies the process with its versatile tools and flexible options.
 
 ---
 
@@ -17,16 +17,16 @@
 ## Installation Guide :hammer_and_wrench:
 
 ### Windows
-1. Download the File Archiver installer from the official website.
+1. Download the *File Archiver* installer from the official website.
 2. Run the installer and follow the on-screen instructions.
-3. Once installation is complete, launch File Archiver from the Start menu.
+3. Once installation is complete, launch *File Archiver* from the Start menu.
 
 ```bash
 FileArchiverSetup.exe /silent
 ```
 ### macOS
-1. Download the File Archiver `.dmg` file from the official website.
-2. Open the `.dmg` and drag the File Archiver icon into the Applications folder.
+1. Download the *File Archiver* `.dmg` file from the official website.
+2. Open the `.dmg` and drag the *File Archiver* icon into the Applications folder.
 3. Launch the application from the Applications folder.
 
 ```bash
@@ -36,7 +36,7 @@ sudo cp -r /Volumes/FileArchiver/FileArchiver.app /Applications/
 ### Linux
 1. Open a terminal and download the package from the official repository.
 2. Install the package using your package manager.
-3. Launch File Archiver from the applications menu or via terminal.
+3. Launch *File Archiver* from the applications menu or via terminal.
 
 ```bash
 sudo apt-get install 
@@ -45,13 +45,13 @@ filearchiver filearchiver --launch
 
 ---
 
-## User Guide :open_book:
+## User Guide :books:
 
 ### Creating an Archive Project
 
-To create a new archive project in File Archiver:
+To create a new archive project in *File Archiver*:
 
-- [ ] Open File Archiver.
+- [ ] Open *File Archiver*.
 - [ ] Click on "New Project."
 - [ ] Name the project.
 - [ ] Add the files or folders to be archived. :file_folder:
@@ -60,7 +60,7 @@ To create a new archive project in File Archiver:
 
 ### Collaboration :handshake:
 
-File Archiver offers several collaboration features, allowing teams to work together on file management tasks:
+*File Archiver* offers several collaboration features, allowing teams to work together on file management tasks:
 
 | **Collaboration Option** | **Description**                        | **Tools**                       |
 |--------------------------|----------------------------------------|----------------------------------|
@@ -70,7 +70,7 @@ File Archiver offers several collaboration features, allowing teams to work toge
 
 ### Reporting :bar_chart:
 
-To generate detailed reports on archive projects, File Archiver offers built-in reporting functionality. Here's an example of a generated report in JSON format:
+To generate detailed reports on archive projects, *File Archiver* offers built-in reporting functionality. Here's an example of a generated report in JSON format:
 
 ```json
 {
@@ -101,7 +101,7 @@ To generate detailed reports on archive projects, File Archiver offers built-in 
 
 ### Scripting
 
-File Archiver allows users to automate tasks using built-in scripting functionality. Here's an example script that archives a folder and uploads it to a cloud service:
+*File Archiver* allows users to automate tasks using built-in scripting functionality. Here's an example script that archives a folder and uploads it to a cloud service:
 
 ```bash
 #!/bin/bash
@@ -110,15 +110,14 @@ cloud_upload ~/Backups/ProjectArchive.zip --service GoogleDrive
 ```
 ### Integrations :link:
 
-File Archiver integrates with various applications, making file management even more efficient:
+*File Archiver* integrates with various applications, making file management even more efficient:
 
 | **Application**  | **Description**                                | **Website**                                 |
 |------------------|------------------------------------------------|---------------------------------------------|
 | Google Drive     | Upload and download archives directly from Google Drive | [Google Drive](https://drive.google.com)    |
 | Dropbox          | Seamless integration with Dropbox cloud storage | [Dropbox](https://www.dropbox.com)          |
 | OneDrive         | Store and manage archives in Microsoft's OneDrive | [OneDrive](https://onedrive.live.com)       |
-
-Below are the home screens of each application that can integrate with _File Archiver_ .
+Below are the home screens of each application that can integrate with *File Archiver* .
 
 Google Drive:
 ![alt text](https://9to5google.com/wp-content/uploads/sites/4/2023/05/google-drive-new-homepage-2.jpg?quality=82&strip=all&w=1024)
@@ -136,3 +135,9 @@ OneDrive:
 1. For more information on encryption standards, refer to the [AES encryption Wikipedia page](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard).
 2. For a detailed comparison of compression formats, see the [Comparison of archive formats](https://en.wikipedia.org/wiki/Comparison_of_file_archivers).
 
+
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNTgyNDY0NF19
+-->
