@@ -127,7 +127,7 @@ DropBox:
 ![alt text](https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2017/08/home-web-view-en.png)
 
 OneDrive:
-![alt text](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/464437i166CD5F6BBC506ED/image-size/large?v=v2&px=999)
+![alt text]([https://techcommunity.microsoft.com/t5/image/serverpage/image-id/464437i166CD5F6BBC506ED/image-size/large?v=v2&px=999](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/465704i79FB0D3E56E2057B/image-size/large?v=v2&px=999))
 
 ---
 
