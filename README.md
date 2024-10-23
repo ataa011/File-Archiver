@@ -14,7 +14,7 @@
 
 ---
 
-## Installation Guide:# :hammer_and_wrench:
+## Installation Guide:hammer_and_wrench:
 
 ### Windows
 1. Download the File Archiver installer from the official website.
@@ -45,7 +45,7 @@ filearchiver filearchiver --launch
 
 ---
 
-## User Guide:books:
+## User Guide:book:
 
 ### Creating an Archive Project
 
