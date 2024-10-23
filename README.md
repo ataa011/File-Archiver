@@ -45,7 +45,7 @@ filearchiver filearchiver --launch
 
 ---
 
-## User Guide :books:
+## User Guide :open_book:
 
 ### Creating an Archive Project
 
