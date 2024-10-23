@@ -4,7 +4,7 @@
 
 ---
 
-## Key Features:sparkles:
+## Key Features :sparkles:
 
 - **File Compression**: Compress multiple files into smaller, manageable archives to save storage space.
 - **Encryption Support**: Secure your archived files with advanced encryption to protect sensitive data.
@@ -14,7 +14,7 @@
 
 ---
 
-## Installation Guide:hammer_and_wrench:
+## Installation Guide :hammer_and_wrench:
 
 ### Windows
 1. Download the File Archiver installer from the official website.
@@ -45,7 +45,7 @@ filearchiver filearchiver --launch
 
 ---
 
-## User Guide:book:
+## User Guide :books:
 
 ### Creating an Archive Project
 
@@ -54,11 +54,11 @@ To create a new archive project in File Archiver:
 - [ ] Open File Archiver.
 - [ ] Click on "New Project."
 - [ ] Name the project.
-- [ ] Add the files or folders to be archived.:file_folder:
-- [ ] Select compression settings and set a password (optional).:lock:
-- [ ] Click "Create Archive" to finalize the project.:white_check_mark:
+- [ ] Add the files or folders to be archived. :file_folder:
+- [ ] Select compression settings and set a password (optional). :lock:
+- [ ] Click "Create Archive" to finalize the project. :white_check_mark:
 
-### Collaboration:handshake:
+### Collaboration :handshake:
 
 File Archiver offers several collaboration features, allowing teams to work together on file management tasks:
 
@@ -84,7 +84,7 @@ To generate detailed reports on archive projects, File Archiver offers built-in 
 
 ---
 
-## Troubleshooting:gear:
+## Troubleshooting :gear:
 
 - **Failed to create archive**  
   _Ensure there is enough disk space and that the selected files are not in use._
@@ -97,7 +97,7 @@ To generate detailed reports on archive projects, File Archiver offers built-in 
 
 ---
 
-## Advanced Usage:rocket:
+## Advanced Usage :rocket:
 
 ### Scripting
 
@@ -108,7 +108,7 @@ File Archiver allows users to automate tasks using built-in scripting functional
 filearchiver --compress --source ~/Documents/ProjectFiles --output ~/Backups/ProjectArchive.zip
 cloud_upload ~/Backups/ProjectArchive.zip --service GoogleDrive
 ```
-### Integrations:link:
+### Integrations :link:
 
 File Archiver integrates with various applications, making file management even more efficient:
 
@@ -131,7 +131,7 @@ OneDrive:
 
 ---
 
-## Footnotes:book:
+## Footnotes :book:
 
 1. For more information on encryption standards, refer to the [AES encryption Wikipedia page](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard).
 2. For a detailed comparison of compression formats, see the [Comparison of archive formats](https://en.wikipedia.org/wiki/Comparison_of_file_archivers).
