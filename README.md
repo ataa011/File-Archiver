@@ -117,6 +117,7 @@ cloud_upload ~/Backups/ProjectArchive.zip --service GoogleDrive
 | Google Drive     | Upload and download archives directly from Google Drive | [Google Drive](https://drive.google.com)    |
 | Dropbox          | Seamless integration with Dropbox cloud storage | [Dropbox](https://www.dropbox.com)          |
 | OneDrive         | Store and manage archives in Microsoft's OneDrive | [OneDrive](https://onedrive.live.com)       |
+
 Below are the home screens of each application that can integrate with *File Archiver* .
 
 Google Drive:
@@ -139,5 +140,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgyNDY0NF19
+eyJoaXN0b3J5IjpbLTE5OTYyNTg2MTAsLTEzNTgyNDY0NF19
 -->
