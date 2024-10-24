@@ -1,18 +1,19 @@
- - [File Archiver - File Management Redefined :file_folder:](#file-archiver-file-management-redefined)
- - [Key Features ](#key-features)
- - [Installation Guide ](#installation-guide)
-   - [Windows](#windows)
-   - [macOS](#macos)
-   - [Linux](#linux)
- - [User Guide ](#chapter-2-methods)
-   - [Creating an Archive Project](#section-21-approach)
-   -  [Collaboration ](#section-21-approach)
-   - [Reporting ](#section-21-approach)
- - [Troubleshooting ](#section-22-data)
- - [Advanced Usage ](#section-22-data)
-   - [Scripting](#section-22-data)
-   - [Integrations ](#section-22-data)
- - [Footnotes ](#section-22-data)
+
+- [File Archiver - File Management Redefined :file_folder:](#file-archiver---file-management-redefined-file_folder)
+- [Key Features ](#key-features-)
+- [Installation Guide ](#installation-guide-)
+  - [Windows](#windows)
+  - [macOS](#macos)
+  - [Linux](#linux)
+- [User Guide ](#user-guide-)
+  - [Creating an Archive Project](#creating-an-archive-project)
+  - [Collaboration](#collaboration)
+  - [Reporting](#reporting)
+- [Troubleshooting](#troubleshooting-)
+- [Advanced Usage](#advanced-usage-)
+  - [Scripting](#scripting)
+  - [Integrations](#integrations)
+- [Footnotes](#footnotes-)
 
 # File Archiver - File Management Redefined :file_folder:
 
@@ -156,5 +157,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk0NTY4OTJdfQ==
+eyJoaXN0b3J5IjpbOTE5Mzc0ODcyLC0xNDc5NDU2ODkyXX0=
 -->
