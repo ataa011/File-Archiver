@@ -1,4 +1,4 @@
- - [Chapter 1: Introduction](#chapter-1-introduction)
+ - [Introduction](#chapter-1-introduction)
  - [Key Features ](#section-11-overview)
  - [Installation Guide ](#section-12-background)
    - [Windows](#section-22-data)
@@ -9,9 +9,10 @@
    -  [Collaboration ](#section-21-approach)
    - [Reporting ](#section-21-approach)
  - [Troubleshooting ](#section-22-data)
- - [Section 2.2: Data](#section-22-data)
-   - as 
- - [Section 2.2: Data](#section-22-data)
+ - [Advanced Usage ](#section-22-data)
+   - [Scripting](#section-22-data)
+   - [Integrations ](#section-22-data)
+ - [Footnotes ](#section-22-data)
 
 # File Archiver - File Management Redefined :file_folder:
 
@@ -155,6 +156,6 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTEzMCwtMTk5NjI1ODYxMCwtMTM1OD
-I0NjQ0XX0=
+eyJoaXN0b3J5IjpbMTYwMTQ2MDU2MSwtMTk5NjI1ODYxMCwtMT
+M1ODI0NjQ0XX0=
 -->
