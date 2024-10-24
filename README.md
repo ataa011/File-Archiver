@@ -1,9 +1,10 @@
- [Chapter 1: Introduction](#chapter-1-introduction)
- [Key Features ](#section-11-overview)
- [Installation Guide ](#section-12-background)
- [User Guide ](#chapter-2-methods)
- [Collaboration ](#section-21-approach)
- [Section 2.2: Data](#section-22-data)
+ - [Chapter 1: Introduction](#chapter-1-introduction)
+ - [Key Features ](#section-11-overview)
+ - [Installation Guide ](#section-12-background)
+ - [User Guide ](#chapter-2-methods)
+   - [Creating an Archive Project](#section-21-approach)
+   -  - [Creating an Archive Project](#section-21-approach)
+ - [Section 2.2: Data](#section-22-data)
 
 # File Archiver - File Management Redefined :file_folder:
 
@@ -147,6 +148,6 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTc5NTg2MSwtMTk5NjI1ODYxMCwtMT
-M1ODI0NjQ0XX0=
+eyJoaXN0b3J5IjpbNDc1OTUxOTgwLC0xOTk2MjU4NjEwLC0xMz
+U4MjQ2NDRdfQ==
 -->
