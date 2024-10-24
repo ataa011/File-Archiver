@@ -1,4 +1,4 @@
-- [File Archiver - File Management Redefined :file_folder:](#file-archiver---file-management-redefined-file_folder)
+- [Introduction](#file-archiver---file-management-redefined-file_folder)
 - [Key Features ](#key-features-sparkles)
 - [Installation Guide ](#installation-guide-hammer_and_wrench)
   - [Windows](#windows)
@@ -156,5 +156,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk2MzY0MzNdfQ==
+eyJoaXN0b3J5IjpbMjAwMzUyNTEyMiwtMTM0OTYzNjQzM119
 -->
