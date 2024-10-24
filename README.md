@@ -1,9 +1,9 @@
- - [File Archiver - File Management Redefined :file_folder:](#File-Archiver-File-Management-Redefined)
- - [Key Features ](#Key-Features)
- - [Installation Guide ](#Installation Guide)
-   - [Windows](#section-22-data)
-   - [macOS](#section-22-data)
-   - [Linux](#section-22-data)
+ - [File Archiver - File Management Redefined :file_folder:](#file-archiver-file-management-redefined)
+ - [Key Features ](#key-features)
+ - [Installation Guide ](#installation-guide)
+   - [Windows](#windows)
+   - [macOS](#macos)
+   - [Linux](#linux)
  - [User Guide ](#chapter-2-methods)
    - [Creating an Archive Project](#section-21-approach)
    -  [Collaboration ](#section-21-approach)
@@ -156,5 +156,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY2NjY4LC0xNjQ0ODM1NDY1XX0=
+eyJoaXN0b3J5IjpbLTE0Nzk0NTY4OTJdfQ==
 -->
