@@ -1,6 +1,6 @@
  - [File Archiver - File Management Redefined :file_folder:](#File-Archiver-File-Management-Redefined)
- - [Key Features ](#section-11-overview)
- - [Installation Guide ](#section-12-background)
+ - [Key Features ](#Key-Features)
+ - [Installation Guide ](#Installation Guide)
    - [Windows](#section-22-data)
    - [macOS](#section-22-data)
    - [Linux](#section-22-data)
@@ -156,5 +156,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ4MzU0NjVdfQ==
+eyJoaXN0b3J5IjpbLTEwNTY2NjY4LC0xNjQ0ODM1NDY1XX0=
 -->
