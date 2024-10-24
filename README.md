@@ -1,6 +1,9 @@
  [Chapter 1: Introduction](#chapter-1-introduction)
- [Section 1.1: Overview](#section-11-overview)
- [Section 1.2: Background](#section-12-background)[Chapter 2: Methods](#chapter-2-methods) - [Section 2.1: Approach](#section-21-approach) - [Section 2.2: Data](#section-22-data)
+ [Key Features ](#section-11-overview)
+ [Installation Guide ](#section-12-background)
+ [User Guide ](#chapter-2-methods)
+ [Collaboration ](#section-21-approach)
+ [Section 2.2: Data](#section-22-data)
 
 # File Archiver - File Management Redefined :file_folder:
 
@@ -144,6 +147,6 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mjk0NzEwMiwtMTk5NjI1ODYxMCwtMT
+eyJoaXN0b3J5IjpbMjAxMTc5NTg2MSwtMTk5NjI1ODYxMCwtMT
 M1ODI0NjQ0XX0=
 -->
