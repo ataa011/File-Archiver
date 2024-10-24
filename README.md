@@ -37,11 +37,18 @@
 2. Run the installer and follow the on-screen instructions.
 3. Once installation is complete, launch *File Archiver* from the Start menu.
 
+```bash
+FileArchiverSetup.exe /silent
+```
 ### macOS
 1. Download the *File Archiver* `.dmg` file from the official website.
 2. Open the `.dmg` and drag the *File Archiver* icon into the Applications folder.
 3. Launch the application from the Applications folder.
 
+```bash
+hdiutil attach FileArchiver.dmg 
+sudo cp -r /Volumes/FileArchiver/FileArchiver.app /Applications/
+```
 ### Linux
 1. Open a terminal and download the package from the official repository.
 2. Install the package using your package manager.
@@ -149,5 +156,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTg2ODE2MjddfQ==
+eyJoaXN0b3J5IjpbLTEzNDk2MzY0MzNdfQ==
 -->
