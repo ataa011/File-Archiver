@@ -9,10 +9,10 @@
   - [Collaboration](#collaboration)
   - [Reporting](#reporting)
 - [Troubleshooting](#troubleshooting-gear)
-- [Advanced Usage](#advanced-usage-)
+- [Advanced Usage](#advanced-usage-rocket)
   - [Scripting](#scripting)
   - [Integrations](#integrations)
-- [Footnotes](#footnotes-)
+- [Footnotes](#footnotes-book)
 
 # File Archiver - File Management Redefined :file_folder:
 
@@ -156,5 +156,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5Njg4Nzg2LDMxNDYyMDI5NF19
+eyJoaXN0b3J5IjpbMTg4MDU2MTMzM119
 -->
