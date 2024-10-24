@@ -6,8 +6,8 @@
   - [Linux](#linux)
 - [User Guide ](#user-guide-open_book)
   - [Creating an Archive Project](#creating-an-archive-project)
-  - [Collaboration](#collaboration)
-  - [Reporting](#reporting)
+  - [Collaboration](#collaboration-handshake)
+  - [Reporting](#reporting-bar_chart)
 - [Troubleshooting](#troubleshooting-gear)
 - [Advanced Usage](#advanced-usage-rocket)
   - [Scripting](#scripting)
@@ -156,5 +156,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDU2MTMzM119
+eyJoaXN0b3J5IjpbMTIwMzcxODU1NF19
 -->
