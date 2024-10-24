@@ -1,14 +1,14 @@
 - [File Archiver - File Management Redefined :file_folder:](#file-archiver---file-management-redefined-file_folder)
-- [Key Features ](#key-features-)
-- [Installation Guide ](#installation-guide-)
+- [Key Features ](#key-features-sparkles)
+- [Installation Guide ](#installation-guide-hammer_and_wrench)
   - [Windows](#windows)
   - [macOS](#macos)
   - [Linux](#linux)
-- [User Guide ](#user-guide-)
+- [User Guide ](#user-guide-open_book)
   - [Creating an Archive Project](#creating-an-archive-project)
   - [Collaboration](#collaboration)
   - [Reporting](#reporting)
-- [Troubleshooting](#troubleshooting-)
+- [Troubleshooting](#troubleshooting-gear)
 - [Advanced Usage](#advanced-usage-)
   - [Scripting](#scripting)
   - [Integrations](#integrations)
@@ -61,7 +61,7 @@ filearchiver filearchiver --launch
 
 ---
 
-## User Guide :books:
+## User Guide :open_book:
 
 ### Creating an Archive Project
 
@@ -156,5 +156,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0NjIwMjk0XX0=
+eyJoaXN0b3J5IjpbOTI5Njg4Nzg2LDMxNDYyMDI5NF19
 -->
