@@ -1,3 +1,7 @@
+ [Chapter 1: Introduction](#chapter-1-introduction)
+ [Section 1.1: Overview](#section-11-overview)
+ [Section 1.2: Background](#section-12-background)[Chapter 2: Methods](#chapter-2-methods) - [Section 2.1: Approach](#section-21-approach) - [Section 2.2: Data](#section-22-data)
+
 # File Archiver - File Management Redefined :file_folder:
 
 *File Archiver* is a powerful file management tool designed to help users efficiently compress, organize, and store files. With an intuitive interface and robust features, *File Archiver* ensures users can easily manage large datasets, create backups, and share compressed files across platforms. Whether you're looking to organize documents or securely store important data, *File Archiver* simplifies the process with its versatile tools and flexible options.
@@ -140,5 +144,6 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYyNTg2MTAsLTEzNTgyNDY0NF19
+eyJoaXN0b3J5IjpbMTU2Mjk0NzEwMiwtMTk5NjI1ODYxMCwtMT
+M1ODI0NjQ0XX0=
 -->
