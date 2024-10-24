@@ -11,7 +11,7 @@
 - [Troubleshooting](#troubleshooting-gear)
 - [Advanced Usage](#advanced-usage-rocket)
   - [Scripting](#scripting)
-  - [Integrations](#integrations)
+  - [Integrations](#integrations-link)
 - [Footnotes](#footnotes-book)
 
 # File Archiver - File Management Redefined :file_folder:
@@ -156,5 +156,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzcxODU1NF19
+eyJoaXN0b3J5IjpbLTExOTU5NDk4MTddfQ==
 -->
