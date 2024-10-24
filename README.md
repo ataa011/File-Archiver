@@ -1,4 +1,4 @@
- - [Introduction](#chapter-1-introduction)
+ - [Introduction](#File-Archiver-File-Management-Redefined)
  - [Key Features ](#section-11-overview)
  - [Installation Guide ](#section-12-background)
    - [Windows](#section-22-data)
@@ -156,6 +156,6 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTQ2MDU2MSwtMTk5NjI1ODYxMCwtMT
-M1ODI0NjQ0XX0=
+eyJoaXN0b3J5IjpbNzQ5NzQ4MDI4LDE2MDE0NjA1NjEsLTE5OT
+YyNTg2MTAsLTEzNTgyNDY0NF19
 -->
