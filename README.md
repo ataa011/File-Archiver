@@ -4,7 +4,7 @@
   - [Windows](#windows)
   - [macOS](#macos)
   - [Linux](#linux)
-- [User Guide ](#user-guide-open_book)
+- [User Guide ](#user-guide-books)
   - [Creating an Archive Project](#creating-an-archive-project)
   - [Collaboration](#collaboration-handshake)
   - [Reporting](#reporting-bar_chart)
@@ -61,7 +61,7 @@ filearchiver filearchiver --launch
 
 ---
 
-## User Guide :open_book:
+## User Guide :books:
 
 ### Creating an Archive Project
 
@@ -156,5 +156,5 @@ OneDrive:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU5NDk4MTddfQ==
+eyJoaXN0b3J5IjpbLTEzNDk2MzY0MzNdfQ==
 -->
